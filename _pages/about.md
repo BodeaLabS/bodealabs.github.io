@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: top
+  align: right
   image: BodeaLabs_logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
