@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: MNG#CNDynamics
 nav: true
 nav_order: 8
 dropdown: true
