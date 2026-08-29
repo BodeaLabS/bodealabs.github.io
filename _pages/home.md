@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
-  <img src="/assets/img/Microglia_and_neurons_wide.jpg" alt="CNDynamics & MNG Lab" style="width: 100%; height: auto; display: block;">
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-bottom: 2rem;">
+  <img src="/assets/img/Microglia_and_neurons_wide.jpg" alt="Page banner" style="width: 100%; height: 180px; object-fit: cover; display: block;">
 </div>
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
