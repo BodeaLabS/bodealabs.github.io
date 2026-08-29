@@ -1,9 +1,9 @@
 ---
 layout: page
-title: funding & donations
+title: funding
 permalink: /funding/
 nav: true
 nav_order: 6
 ---
 
-Content about grants, funding bodies, and donation information goes here.
+Content about grants and funding bodies goes here.
