@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div style="width: 20vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
   <img src="/assets/img/Microglia_and_neurons_wide.jpg" alt="CNDynamics & MNG Lab" style="width: 100%; height: auto; display: block;">
 </div>
 
