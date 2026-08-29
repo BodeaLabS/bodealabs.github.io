@@ -16,4 +16,11 @@ profile:
 selected_papers: true
 social: true
 ---
+
+<style>
+.post-title { display: none; }
+</style>
+
+<h1>Dr. Liviu-Gabriel Bodea</h1>
+
 Bio content for Liviu goes here.
