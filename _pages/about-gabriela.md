@@ -14,7 +14,7 @@ profile:
     <p>Office 240</p>
     <p>15-17 Liverpool Street</p>
     <p>Hobart TAS 7000, Australia</p>
-selected_papers: true
+selected_papers: flase
 social: true
 ---
 <style>
@@ -24,3 +24,7 @@ social: true
 <h1>Dr. Gabriela O. Bodea</h1>
 
 Bio content for Gabriela goes here.
+
+## Selected Publications
+
+{% bibliography --query @*[gabriela_selected=true] %}
