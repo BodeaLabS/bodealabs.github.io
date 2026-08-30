@@ -6,7 +6,7 @@ last_name: Bodea
 permalink: /about/liviu/
 nav: false
 profile:
-  align: right
+  align: left
   image: Liviu-photo.jpg
   image_circular: false
   more_info: >
