@@ -20,10 +20,11 @@ latest_posts:
 
 <style>
 .post-title { display: none; }
-.post-description { font-size: 1.3rem; }
+.post-description { display: none; }
 </style>
 
 <h1>Bodea Labs</h1>
+<p style="font-size: 1.3rem; margin-top: -0.5rem; margin-bottom: 1.5rem;">Molecular Neurogenetics &amp; Cellular Neuroimmunometabolism Dynamics </p>
 
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-bottom: 2rem; overflow-x: hidden;">
   <img src="/assets/img/Microglia_and_neurons_wide.jpg" alt="Page banner" style="width: 100%; height: 180px; object-fit: cover; display: block;">
