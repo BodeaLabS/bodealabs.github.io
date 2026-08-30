@@ -14,10 +14,9 @@ profile:
     <p>Office 437c</p>
     <p>15-17 Liverpool Street</p>
     <p>Hobart TAS 7000, Australia</p>
-selected_papers: false
+selected_papers: true
 social: true
 ---
-
 <style>
 .post-title { display: none; }
 </style>
@@ -25,7 +24,3 @@ social: true
 <h1>Dr. Liviu-Gabriel Bodea</h1>
 
 Bio content for Liviu goes here.
-
-## Selected Publications
-
-{% bibliography --query "@*[liviu_selected=true]" %}
