@@ -7,12 +7,13 @@ permalink: /about/gabriela/
 nav: false
 profile:
   align: right
-  image: BodeaLabs_logo.jpg
+  image: Gabriela-photo.jpg
   image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>gabriela.bodea(at)utas.eud.au</p>
+    <p>Office 240</p>
+    <p>15-17 Liverpool Street</p>
+    <p>Hobart TAS 7000, Australia</p>
 selected_papers: true
 social: true
 ---
