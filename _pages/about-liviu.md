@@ -10,9 +10,10 @@ profile:
   image: Liviu-photo.jpg
   image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>liviu.bodea(at)utas.edu.au</p>
+    <p>Office 437c</p>
+    <p>15-17 Liverpool Street</p>
+    <p>Hobart TAS 7000, Australia</p>
 selected_papers: true
 social: true
 ---
