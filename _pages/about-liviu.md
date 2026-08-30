@@ -7,7 +7,7 @@ permalink: /about/liviu/
 nav: false
 profile:
   align: right
-  image: BodeaLabs_logo.jpg
+  image: Liviu-photo.jpg
   image_circular: false
   more_info: >
     <p>555 your office number</p>
