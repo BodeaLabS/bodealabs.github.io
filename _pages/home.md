@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Molecular Neurogenetics & Cellular Neuroimmunometabolism Dynamics Labs
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -17,6 +17,13 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<style>
+.post-title { display: none; }
+.post-description { font-size: 1.3rem; }
+</style>
+
+<h1>Bodea Labs</h1>
 
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-bottom: 2rem; overflow-x: hidden;">
   <img src="/assets/img/Microglia_and_neurons_wide.jpg" alt="Page banner" style="width: 100%; height: 180px; object-fit: cover; display: block;">
