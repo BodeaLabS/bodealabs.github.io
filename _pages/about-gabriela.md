@@ -14,7 +14,7 @@ profile:
     <p>Office 240</p>
     <p>15-17 Liverpool Street</p>
     <p>Hobart TAS 7000, Australia</p>
-selected_papers: flase
+selected_papers: false
 social: true
 ---
 <style>
