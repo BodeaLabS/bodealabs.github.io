@@ -27,4 +27,6 @@ Bio content for Liviu goes here.
 
 ## Selected Publications
 
+<div class="publications">
 {% bibliography --query @*[liviu_selected=true] %}
+</div>
