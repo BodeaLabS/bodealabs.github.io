@@ -27,4 +27,6 @@ Bio content for Gabriela goes here.
 
 ## Selected Publications
 
+<div class="publications">
 {% bibliography --query @*[gabriela_selected=true] %}
+</div>
