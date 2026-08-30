@@ -20,7 +20,7 @@ latest_posts:
 
 <style>
 .post-title { display: none; }
-.post-description { display: none; }
+.desc { display: none; }
 </style>
 
 <h1>Bodea Labs</h1>
