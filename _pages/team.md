@@ -11,12 +11,12 @@ Content for the whole team goes here, likely organized into two sections.
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; margin-top: 2rem;">
 
   <a href="/about/liviu/" style="text-align: left; text-decoration: none; color: inherit;">
-    <img src="/assets/img/team/Liviu-photo.jpg" alt="Dr. Liviu-Gabriel Bodea" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
+    <img src="/assets/img/Liviu-photo.jpg" alt="Dr. Liviu-Gabriel Bodea" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
     <p style="margin-top: 0.5rem; margin-bottom: 0;"><strong>Dr. Liviu-Gabriel Bodea</strong></p>
   </a>
 
   <a href="/about/gabriela/" style="text-align: left; text-decoration: none; color: inherit;">
-    <img src="/assets/img/team/Gabriela-photo.jpg" alt="Dr. Gabriela O. Bodea" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
+    <img src="/assets/img/Gabriela-photo.jpg" alt="Dr. Gabriela O. Bodea" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
     <p style="margin-top: 0.5rem; margin-bottom: 0;"><strong>Dr. Gabriela O. Bodea</strong></p>
   </a>
 
