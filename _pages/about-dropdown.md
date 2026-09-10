@@ -1,13 +1,9 @@
 ---
 layout: page
-title: about us
-permalink: /about/
+title: our research
+permalink: /research/
 nav: true
 nav_order: 2
-dropdown: true
-children:
-  - title: Dr. Liviu-Gabriel Bodea
-    permalink: /about/liviu/
-  - title: Dr. Gabriela O. Bodea
-    permalink: /about/gabriela/
 ---
+
+Content about the lab's research focus goes here.
