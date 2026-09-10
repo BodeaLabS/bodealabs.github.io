@@ -3,7 +3,7 @@ layout: about
 title: Dr. Gabriela O. Bodea
 first_name: Gabriela
 last_name: Bodea
-permalink: /about/gabriela/
+permalink: /team/gabriela/
 nav: false
 profile:
   align: right
