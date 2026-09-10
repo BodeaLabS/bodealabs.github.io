@@ -3,7 +3,7 @@ layout: about
 title: Dr. Liviu-Gabriel Bodea
 first_name: Liviu-Gabriel
 last_name: Bodea
-permalink: /about/liviu/
+permalink: /team/liviu/
 nav: false
 profile:
   align: right
