@@ -1,3 +1,11 @@
+---
+layout: page
+title: team
+permalink: /team/
+nav: true
+nav_order: 3
+---
+
 ## Principal Investigators
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-top: 2rem; max-width: 600px;">
