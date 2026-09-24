@@ -39,7 +39,7 @@ nav_order: 3
 </div>
 
   <div style="text-align: left; padding: 0.5rem;">
-<img src="/assets/img/prof_pic.jpg" alt="Jenny Smith" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
+<img src="/assets/img/JennySmith-photo.jpg" alt="Jenny Smith" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
 <p style="margin-top: 0.5rem; margin-bottom: 0; font-size: 0.9rem;"><strong>Jenny Smith</strong></p>
 <p style="margin-top: 0; margin-bottom: 0; font-size: 0.8rem; color: gray;">Research Assistant</p>
 </div>
