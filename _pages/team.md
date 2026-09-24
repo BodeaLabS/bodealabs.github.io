@@ -33,7 +33,7 @@ nav_order: 3
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-top: 2rem; max-width: 600px;">
 
   <div style="text-align: left; padding: 0.5rem;">
-<img src="/assets/img/prof_pic.jpg" alt="Surbhi Agarwal" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
+<img src="/assets/img/SurbhiAgrawal-photo.jpg" alt="Surbhi Agarwal" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
 <p style="margin-top: 0.5rem; margin-bottom: 0; font-size: 0.9rem;"><strong>Surbhi Agarwal</strong></p>
 <p style="margin-top: 0; margin-bottom: 0; font-size: 0.8rem; color: gray;">Research Assistant</p>
 </div>
